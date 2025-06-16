@@ -4,7 +4,8 @@
     "generated_at": "2024-11-14T20:00:00Z",
     "evaluation_id": "eval-20241114-200000",
     "knox_ai_version": "2.5.1",
-    "schema_version": "fedramp-20x-v1"
+    "schema_version": "fedramp-20x-v1",
+    "note": "This is sample data for demonstration purposes. For live, real-time assessment data, visit https://trustcenter.knoxsystems.com/"
   },
   "summary": {
     "total_validations": 150,

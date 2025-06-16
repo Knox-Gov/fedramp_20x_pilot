@@ -4,6 +4,8 @@
 
 This repository contains Knox's submission for the FedRAMP 20x pilot program, demonstrating our innovative approach to continuous compliance through AI-driven automation. Knox AI represents a paradigm shift from traditional manual compliance processes to real-time, pull-based security validation.
 
+**Knox Trust Center**: For live compliance data, 3PAO attestation, and additional documentation, visit https://trustcenter.knoxsystems.com/
+
 ## Table of Contents
 
 - [Cloud Service Provider Summary](#cloud-service-provider-summary)
@@ -40,6 +42,8 @@ Our machine-readable assessment package provides:
 - **Comprehensive schema definition** for automated validation
 - **Supporting evidence** integrated from multiple authoritative sources
 
+This repository includes sample data and schemas. For live, real-time assessment data, visit the Knox Trust Center at https://trustcenter.knoxsystems.com/
+
 Key endpoints:
 - `/api/compliance/fedramp-output` - Complete FedRAMP-formatted results
 - `/api/compliance/fedramp-output/detailed` - Includes additional metadata
@@ -63,7 +67,9 @@ Knox AI enables true continuous compliance through:
 
 Our third-party assessment is conducted by Coalfire, a FedRAMP-recognized 3PAO with extensive experience in cloud security assessments. Their assessment validates Knox AI's innovative approach to continuous compliance.
 
-[View 3PAO assessment summary →](3pao-assessment/coalfire-assessment-summary.md)
+The complete 3PAO attestation letter and detailed findings are available at the Knox Trust Center: https://trustcenter.knoxsystems.com/
+
+[View 3PAO assessment overview →](3pao-assessment/README.md)
 
 ## Repository Structure
 
@@ -80,10 +86,9 @@ fedramp_20x_pilot/
 ├── schemas/                          # Data schemas and definitions
 │   └── fedramp-output-schema.json    # Complete schema definition
 ├── 3pao-assessment/                  # Third-party assessment
-│   └── coalfire-assessment-summary.md # 3PAO validation
+│   └── README.md                     # 3PAO overview and trust center reference
 └── visualizations/                   # Screenshots and diagrams
-    ├── dashboard-overview.png        # Knox AI dashboard
-    └── architecture-diagram.png      # System architecture
+    └── README.md                     # Platform walkthrough with screenshots
 ```
 
 ## Key Differentiators

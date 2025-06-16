@@ -27,9 +27,9 @@ Knox AI enables true continuous compliance monitoring for FedRAMP Key Security I
 ```
 ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
 │   Schedulers    │────▶│ Data Collection  │────▶│  AI Analysis    │
-│ - Cron (6hr)   │     │ - AWS APIs       │     │ - Gemini 2.5    │
-│ - Event-driven │     │ - Wiz CNAPP      │     │ - KSI Logic     │
-│ - On-demand    │     │ - Drata GRC      │     │ - Scoring       │
+│ - Cron (6hr)    │     │ - AWS APIs       │     │ - Gemini 2.5    │
+│ - Event-driven  │     │ - Wiz CNAPP      │     │ - KSI Logic     │
+│ - On-demand     │     │ - Drata GRC      │     │ - Scoring       │
 └─────────────────┘     └──────────────────┘     └─────────────────┘
                                                            │
                         ┌──────────────────┐              ▼
