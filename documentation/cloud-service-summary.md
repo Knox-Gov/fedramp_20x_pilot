@@ -96,4 +96,4 @@ Our platform currently supports multiple federal agencies and their partners, in
 
 For more information about our FedRAMP Authorized cloud platform:
 - Email: fedramp20x@knoxsystems.com
-- Website: www.knoxsystems.com
+- Website: [www.knoxsystems.com](https://www.knoxsystems.com)

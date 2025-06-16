@@ -104,7 +104,7 @@ fedramp_20x_pilot/
 
 For questions about this submission:
 - Email: fedramp20x@knoxsystems.com
-- Website: www.knoxsystems.com
+- Website: [www.knoxsystems.com](https://www.knoxsystems.com)
 - 3PAO Contact: Coalfire Systems, Inc.
 
 ---

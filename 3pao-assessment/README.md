@@ -8,7 +8,7 @@ Knox Systems has partnered with Coalfire Systems, Inc., a FedRAMP-recognized Thi
 
 The complete 3PAO assessment documentation, including Coalfire's official attestation letter and detailed findings, is available at:
 
-**Knox Trust Center**: https://trustcenter.knoxsystems.com/
+**Knox Trust Center**: [https://trustcenter.knoxsystems.com/](https://trustcenter.knoxsystems.com/)
 
 ## About Coalfire
 
@@ -53,10 +53,10 @@ For detailed findings and the official attestation, please visit the Knox Trust 
 ## Contact Information
 
 **Coalfire Systems, Inc.**
-- Website: www.coalfire.com
+- Website: [www.coalfire.com](https://www.coalfire.com)
 - FedRAMP 3PAO Designation: Active
 
 **Knox Systems**
 - Email: fedramp20x@knoxsystems.com
-- Website: www.knoxsystems.com
-- Trust Center: https://trustcenter.knoxsystems.com/
+- Website: [www.knoxsystems.com](https://www.knoxsystems.com)
+- Trust Center: [https://trustcenter.knoxsystems.com/](https://trustcenter.knoxsystems.com/)

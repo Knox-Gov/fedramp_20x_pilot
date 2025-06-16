@@ -4,7 +4,7 @@
 
 Knox AI generates machine-readable FedRAMP assessment data that enables automated validation, continuous monitoring, and seamless integration with existing GRC platforms. Our approach prioritizes data accuracy, completeness, and accessibility through well-defined schemas and RESTful APIs.
 
-**Note**: This document describes our machine-readable assessment approach with sample data. For live, real-time assessment data and current KSI validation results, please visit the Knox Trust Center at https://trustcenter.knoxsystems.com/
+**Note**: This document describes our machine-readable assessment approach with sample data. For live, real-time assessment data and current KSI validation results, please visit the Knox Trust Center at [https://trustcenter.knoxsystems.com/](https://trustcenter.knoxsystems.com/)
 
 ## Data Format and Schema
 
@@ -307,4 +307,4 @@ Coalfire independently validates:
 
 For integration assistance:
 - Email: fedramp20x@knoxsystems.com
-- Website: www.knoxsystems.com
+- Website: [www.knoxsystems.com](https://www.knoxsystems.com)
