@@ -2,20 +2,6 @@
 
 This directory contains visual assets demonstrating Knox AI's capabilities and user interface. The screenshots referenced in our documentation showcase the end-to-end compliance automation workflow.
 
-## Company Logos
-
-<div align="center">
-  <img src="image8.png" alt="Knox Systems Logo" title="Knox Systems, Inc." height="80" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>+</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="image13.png" alt="Coalfire Logo" title="Coalfire Systems, Inc." height="80" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>+</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="image19.png" alt="Adobe Logo" title="Adobe, Inc." height="80" />
-</div>
-
 ## Knox AI Platform Walkthrough
 
 ### 1. Onboarding Process

@@ -1,4 +1,8 @@
 # Knox FedRAMP 20x Pilot Submission
+<div align="center">
+  <img src="visualizations/image8.png" alt="Knox Systems Logo" title="Knox Systems, Inc." />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
 ## Overview
 
