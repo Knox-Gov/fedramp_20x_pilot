@@ -11,7 +11,7 @@
 ## [▶️ Watch a 5-minute demo of Knox AI revolutionizing FedRAMP compliance](https://www.loom.com/share/81967387bf12411686e72e9b094ac928?sid=d500c110-403c-4746-b2b9-ca37dbeedc01)
 
 
-[![Watch Demo](https://img.shields.io/badge/WATCH%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.loom.com/share/81967387bf12411686e72e9b094ac928?sid=d500c110-403c-4746-b2b9-ca37dbeedc01)
+[![Watch on Loom](https://img.shields.io/badge/WATCH%20ON%20LOOM-625DF5?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/81967387bf12411686e72e9b094ac928?sid=d500c110-403c-4746-b2b9-ca37dbeedc01)
 
 </div>
 
