@@ -4,6 +4,19 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
+---
+
+<div align="center">
+  
+## [▶️ Watch a 5-minute demo of Knox AI revolutionizing FedRAMP compliance](https://www.loom.com/share/81967387bf12411686e72e9b094ac928?sid=d500c110-403c-4746-b2b9-ca37dbeedc01)
+
+
+[![Watch Demo](https://img.shields.io/badge/WATCH%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.loom.com/share/81967387bf12411686e72e9b094ac928?sid=d500c110-403c-4746-b2b9-ca37dbeedc01)
+
+</div>
+
+---
+
 ## Overview
 
 This repository contains Knox's submission for the FedRAMP 20x pilot program, demonstrating our innovative approach to continuous compliance through AI-driven automation. Knox AI represents a paradigm shift from traditional manual compliance processes to real-time, pull-based security validation.
@@ -31,7 +44,7 @@ Knox AI fundamentally reimagines FedRAMP compliance through:
 
 - **Pull-Based Architecture**: Unlike traditional push-based evidence collection, Knox AI continuously queries live data from cloud environments
 - **100% Resource Coverage**: Evaluates ALL resources across multiple AWS accounts and regions, eliminating sampling bias
-- **AI-Powered Analysis**: Leverages Google Gemini 2.5 Flash Preview for intelligent compliance evaluation
+- **AI-Powered KSI Evaluation**: Leverages Google Gemini 2.5 Flash Preview for intelligent compliance evaluation
 - **Automated Scheduling**: Compliance evaluations run automatically every 6 hours
 - **Three-Pillar Integration**: Seamlessly integrates infrastructure (AWS APIs), security posture (Wiz CNAPP), and governance (Drata GRC)
 
